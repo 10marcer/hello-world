@@ -1,2 +1,6 @@
 # hello-world
-hello world repository
+
+
+Hello GitHub!
+
+I am trying to become a web developer !
